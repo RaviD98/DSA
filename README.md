@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/RaviD98/DSA">
-    <img src="https://github.com/RaviD98/DSA/blob/main/banner1.png" alt="DSA Logs Banner" />
+    <img src="https://github.com/RaviD98/DSA/blob/main/assets/banner1.png" alt="DSA Logs Banner" />
   </a>
 </p>
 
